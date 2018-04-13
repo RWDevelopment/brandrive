@@ -1,6 +1,6 @@
 body {font-family: 'Roboto', sans-serif;}
 .slogan {font-family: 'Racing Sans One', cursive;
-  background: -webkit-linear-gradient(left right,#ff0000, #212529);
+  background: -webkit-linear-gradient(#ff0000, #212529);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;}
 
