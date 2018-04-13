@@ -307,7 +307,7 @@ nav ul.sub li a:hover { color: #b7ac7f; }
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background-color: #ccc;
+  background-color: red;
   opacity: 0;
   visibility: hidden;
 }
