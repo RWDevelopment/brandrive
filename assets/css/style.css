@@ -26,6 +26,11 @@ body > * {
     background: rgba(255, 255, 255, 0.75);
 }
 
+.cover {
+  background-image: url(../img/bg.jpg);
+  height: 100%;
+}
+
 .slogan {font-family: 'Racing Sans One', cursive;}
 .t-shadow {text-shadow: 1px 1px 3px rgba(0,0,0,0.3);}
 
