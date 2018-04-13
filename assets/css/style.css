@@ -1,8 +1,6 @@
 body {font-family: 'Roboto', sans-serif;}
-.slogan {font-family: 'Racing Sans One', cursive;
-  background: -webkit-linear-gradient(right, #ff0000, #212529);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;}
+.slogan {font-family: 'Racing Sans One', cursive;}
+.t-shadow {text-shadow: 1px 1px 3px rgba(0,0,0,0.3);}
 
 /*  BURGER
 ========================================== */
