@@ -23,7 +23,7 @@ body > * {
     left: 0px;
     top: 0px;
     pointer-events: none;
-    background: rgba(255, 255, 255, 0.75);
+    background: rgba(255, 255, 255, 0.7);
 }
 
 .cover {
@@ -31,8 +31,13 @@ body > * {
   height: 100%;
 }
 
-.slogan {font-family: 'Racing Sans One', cursive;}
-.t-shadow {text-shadow: 1px 1px 3px rgba(0,0,0,0.3);}
+.slogan {
+  font-family: 'Racing Sans One', cursive;
+}
+
+.t-shadow {
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
 
 /*  BURGER
 ========================================== */
